@@ -1,1 +1,1 @@
-# Diary-of-a-fledgling-Data-Scientist
+# Diary-of-a-Fledgling-Data-Scientist
